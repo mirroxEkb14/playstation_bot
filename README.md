@@ -1,7 +1,7 @@
 # playstation_bot
 This tg bot remembers the games you tell him and show if there is a discount on them on PS store
 
-1.Create database:\n
+1.Create database:
 for the bot to work you need to create the database with two columns: game(the name of the
 game) and discount(0 - there isn`t, 1 - there is)
 
